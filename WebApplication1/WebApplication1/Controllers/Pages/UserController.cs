@@ -87,6 +87,41 @@ namespace WebApplication1.Controllers.Pages
                 return RedirectToAction("Edit");
             }
         }
-        
+
+
+        public ActionResult Delete(int id)
+        {
+            var user = _userRepository.GetUser(id);
+            return View(new UserViewModel
+            {
+                Id = user.Id,
+                UserName = user.UserName,
+                FirstName = user.FirstName,
+                LastName = user.LastName,
+                Password = user.Password,
+                IsActive = user.IsActive
+            });
+        }
+        [HttpPost]
+        public ActionResult Delete(UserViewModel model)
+        {
+            var r = _userRepository.DeleteUser((int)model.Id);
+            if (r)
+                return RedirectToAction("index");
+            else
+            {
+                var user = _userRepository.GetUser((int)model.Id);
+                return View(new UserViewModel
+                {
+                    Id = user.Id,
+                    UserName = user.UserName,
+                    FirstName = user.FirstName,
+                    LastName = user.LastName,
+                    Password = user.Password,
+                    IsActive = user.IsActive
+                });
+            }
+        }
     }
+
 }
