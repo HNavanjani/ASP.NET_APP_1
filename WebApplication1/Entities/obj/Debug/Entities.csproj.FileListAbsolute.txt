@@ -1,0 +1,5 @@
+D:\Shared\DotNET\Project_1\ASP.NET_APP_1\WebApplication1\Entities\bin\Debug\Entities.dll
+D:\Shared\DotNET\Project_1\ASP.NET_APP_1\WebApplication1\Entities\bin\Debug\Entities.pdb
+D:\Shared\DotNET\Project_1\ASP.NET_APP_1\WebApplication1\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+D:\Shared\DotNET\Project_1\ASP.NET_APP_1\WebApplication1\Entities\obj\Debug\Entities.dll
+D:\Shared\DotNET\Project_1\ASP.NET_APP_1\WebApplication1\Entities\obj\Debug\Entities.pdb

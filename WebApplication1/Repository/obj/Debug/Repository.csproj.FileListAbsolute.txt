@@ -1,0 +1,8 @@
+D:\Shared\DotNET\Project_1\ASP.NET_APP_1\WebApplication1\Repository\bin\Debug\Repository.dll
+D:\Shared\DotNET\Project_1\ASP.NET_APP_1\WebApplication1\Repository\bin\Debug\Repository.pdb
+D:\Shared\DotNET\Project_1\ASP.NET_APP_1\WebApplication1\Repository\bin\Debug\Entities.dll
+D:\Shared\DotNET\Project_1\ASP.NET_APP_1\WebApplication1\Repository\bin\Debug\Entities.pdb
+D:\Shared\DotNET\Project_1\ASP.NET_APP_1\WebApplication1\Repository\obj\Debug\Repository.csprojAssemblyReference.cache
+D:\Shared\DotNET\Project_1\ASP.NET_APP_1\WebApplication1\Repository\obj\Debug\Repository.csproj.CopyComplete
+D:\Shared\DotNET\Project_1\ASP.NET_APP_1\WebApplication1\Repository\obj\Debug\Repository.dll
+D:\Shared\DotNET\Project_1\ASP.NET_APP_1\WebApplication1\Repository\obj\Debug\Repository.pdb
